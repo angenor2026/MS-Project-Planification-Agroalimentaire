@@ -41,8 +41,6 @@ L'exercice est réalisé à l'aide d'une démarche structurée en 4 étapes clé
   7. Quel est le % de travail achevé sur l'ensemble du projet ?
   8. Quelle est la variation de la date de fin du projet (variation de fin) ?
 
-*📸 Aperçu du planning lissé et corrigé :*
-<img width="1124" height="217" alt="03_plan_initial_utilisation_ressources" src="https://github.com/user-attachments/assets/24ab1407-32d3-4cb9-9a1b-48a711c70c6b" />
 
 <img width="1183" height="806" alt="05_plan_revise_gantt" src="https://github.com/user-attachments/assets/59523f3d-60b9-4b56-9a2a-2473292447df" />
 <img width="1076" height="634" alt="06_suivi_avancement (1)" src="https://github.com/user-attachments/assets/9c73340d-c690-408a-98e5-1ed4ace427d7" />
